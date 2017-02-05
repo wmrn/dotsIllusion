@@ -25,7 +25,7 @@ dotsIllusionの元↓
 <img src="https://github.com/wmrn/dotsIllusion/blob/master/data/lady.jpg" width="250" height="350">  
   
 1. 試作1  ピクセルの色を取得。  
-<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic.png" width="250" height="350">  
+<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic1.png" width="250" height="350">  
 
 
 
