@@ -23,10 +23,12 @@ dotsIllusionの元↓
 いい感じのこてこての昔の画像が見つからなかったからオードリーの写真を使った。  
 ＜引用元＞<https://marry-xoxo.com/articles/3719>  
 元画像  
+
 <img src="https://github.com/wmrn/dotsIllusion/blob/master/data/lady.jpg" width="250" height="350">  
 
-1. 試作1  
-<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic.png" width="250" height="350">  
+1. 試作1  
+ピクセルの色
+<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic.png" width="250" height="350">  
 
 
 
