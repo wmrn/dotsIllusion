@@ -1,8 +1,8 @@
 # dotIllusion
 アートっぽい錯角 2017/02/05
 
-## 作ろうとした
-あるSlackのiconを変えたかった。  
+## Why
+あるSlackのiconを変えたかった。  
 SlackのiconはGifが使えないので動きのあるものを使えない。  
 なら錯角でそれっぽくすればいいかも。  
 いろんな錯角を探してみたけれども、ほしい動きのものでなかったり...  
@@ -21,13 +21,13 @@ dotsIllusionの元↓
 
 ## process
 いい感じのこてこての昔の画像が見つからなかったからオードリーの写真を使った。  
-＜引用元＞<https://marry-xoxo.com/articles/3719>   
-<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/lady.jpg" width="250" height="350">  
-
-1. 試作1  ピクセルの色を取得。
+＜引用元＞<https://marry-xoxo.com/articles/3719>   　
+<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/lady.jpg" width="250" height="350">  
+  
+1. 試作1  ピクセルの色を取得。  
 <img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic.png" width="250" height="350">  
 
 
 
-## 感想
+## the end
 どうしたものか。
