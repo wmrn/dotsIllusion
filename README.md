@@ -23,7 +23,7 @@ dotsIllusionの元↓
 いい感じのこてこての昔の画像が見つからなかったからオードリーの写真を使った。  
 ＜引用元＞<https://marry-xoxo.com/articles/3719>  
 1. 試作1
-
+<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic.png" width="200" height="400">  
 
 
 
