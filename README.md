@@ -24,11 +24,17 @@ dotsIllusionの元↓
 ＜引用元＞<https://marry-xoxo.com/articles/3719><dr>    
 <img src="https://github.com/wmrn/dotsIllusion/blob/master/data/lady.jpg" width="250" height="350">  
   
-1. 試作1  ピクセルの色を取得。  
+####1. 試作1
+モザイクを円で作り、それぞれの円の上に明度によって大きさの変わる円を重ねた。ぱっとみそれっぽくはなった。<dr>
 <img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic1.png" width="250" height="350">  
 
-2. 試作2　
+####2. 試作2
+よくよく見たら色の部分の円の大きさも若干異なっていることに気づいた。  
+若干大きさが異なるように調整したら全体的に色が薄くなった。写真変えたほうがいい気がしてきた。  
 <img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic2.png" width="250" height="350">  
+
+####3. 試作3
+色の円が複数個あるのに気が付いた。でもどの色を使うとかの判定がよくわからない。  
 
 ## the end
 どうしたものか。
