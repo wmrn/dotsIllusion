@@ -27,7 +27,8 @@ dotsIllusionの元↓
 1. 試作1  ピクセルの色を取得。  
 <img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic1.png" width="250" height="350">  
 
-
+2. 試作2　
+<img src="https://github.com/wmrn/dotsIllusion/blob/master/data/pic2.png" width="250" height="350">  
 
 ## the end
 どうしたものか。
